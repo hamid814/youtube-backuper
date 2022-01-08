@@ -5,3 +5,6 @@ env
 video/*
 
 __pycache__
+
+# test database
+dbt.py
